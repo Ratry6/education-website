@@ -1,0 +1,30 @@
+.head-part{
+    
+    padding: 10px;
+    margin-top:30px ;
+    margin-bottom: 30px;
+}
+.head-part h1{
+    color: rgb(85, 85, 189);
+    font-weight: 700;
+}
+.head-part h3{
+    color: rgb(46, 52, 134);
+    font-size: 18px;
+}
+.head-part p{
+    color: rgb(100, 83, 16);
+    font-size: 18px;
+}
+.individual-service{
+       display: grid;
+       grid-template-columns: repeat(2,1fr);
+       grid-gap: 10px;
+       margin-bottom: 40px;
+       
+}
+.service-part h1{
+    color: rgb(34, 5, 14);
+    margin: 30px;
+}
+

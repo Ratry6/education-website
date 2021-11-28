@@ -1,0 +1,38 @@
+.carousel-body{
+
+    margin: 10px 90px 40px 90px;
+}
+.carousel-body img{
+
+  width: 80px;
+  height: 500px;
+
+}
+.second-carousel h3{
+    color: rgb(75, 7, 7);
+    
+}
+.second-carousel p{
+    color: rgb(12, 4, 63);
+    font-weight: 500;
+}
+.btn-learnMore{
+    border: 1px solid rgb(156, 151, 151);
+    border-radius: 10px;
+    height: 30px;
+    width: 120px;
+    color: rgb(13, 96, 102);
+    font-weight: 700;
+    margin: 20px;
+}
+.third-carousel h3{
+    color: rgb(25, 223, 108);
+    font-size: 40px;
+}
+.third-carousel p{
+    color: rgb(173, 182, 160);
+    font-size: 16px;
+}
+.lists{
+    color: rgb(170, 147, 185);
+}

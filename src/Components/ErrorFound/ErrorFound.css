@@ -1,0 +1,11 @@
+.error-message h1{
+color: rgb(221, 37, 37);
+font-size: 40px;
+font-weight: bold;
+margin: 130px;
+}
+.error-message p{
+    color: rgb(158, 69, 69);
+    font-size: 30px;
+    margin: 40px;
+}

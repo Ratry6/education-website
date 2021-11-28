@@ -1,0 +1,15 @@
+.service-header{
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+    grid-gap: 10px;
+    margin : 50px
+}
+.service-header img{
+    height: 150px;
+}
+.service-header h2{
+    color: rgb(31, 21, 112);
+    font-size: 30px;
+    font-weight: 600;
+    margin-top: 20px;
+}

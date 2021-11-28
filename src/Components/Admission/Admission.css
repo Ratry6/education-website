@@ -1,0 +1,47 @@
+.admission-header{
+    display:flex;
+    background-color: rgb(241, 246, 248);
+    margin-bottom: 50px;
+}
+.rules-description{
+    width: 900px;
+    margin-right: 20px;
+    padding: 60px
+}
+.rules-description, .form-part h2{
+    color: rgb(20, 71, 71);
+    font-size: 35px;
+    margin-bottom: 20px;
+    
+}
+.rules-description p{
+    color: rgb(95, 88, 88);
+    margin: 40px;
+}
+
+.rules-list{
+    padding: 20px;
+    width: 50%;
+    margin-top: 100px;
+    
+}
+.form-fillup{
+    background-color: rgb(241, 246, 248);
+    width: 70%;
+    margin-left: 170px;
+    margin-top: 50px;
+    border: 1px solid rgb(233, 215, 215);
+    border-radius: 10px;
+    padding: 10px;
+}
+
+.btn-submit{
+    border: 1px solid rgb(156, 151, 151);
+    border-radius: 10px;
+    height: 30px;
+    width: 120px;
+    color: rgb(20, 71, 71);
+    font-weight: 700;
+    padding-bottom: 30px;
+}
+

@@ -1,0 +1,41 @@
+.card{
+    width: 80%;
+    height: 500px;
+    margin-left: 30px;
+    border: 1px solid grey;
+    border-radius: 10px;
+}
+
+.card-img{
+    width: 50%;
+    height: 50%;
+    
+}
+.card-title{
+    color: rgb(70, 6, 11);
+    font-size: 30px;
+    font-weight: 700;
+}
+
+.card-text h5{
+    color: rgb(138, 80, 80);
+    font-size: 18px;
+    font-weight: 600;
+}
+.card-text p{
+    color: rgb(33, 77, 128);
+    font-size: 20px;
+}
+.card:hover{
+    background-color: rgb(145, 181, 182);
+    cursor: pointer;
+}
+.join-btn{
+    border: 1px solid rgb(156, 151, 151);
+    border-radius: 10px;
+    height: 30px;
+    width: 150px;
+    color: rgb(13, 96, 102);
+    font-weight: 700;
+    margin-bottom: 10px;
+}
